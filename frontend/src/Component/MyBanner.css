@@ -1,0 +1,25 @@
+.box{
+    height:400px;
+    width:100vw;
+    border:2px solid blue;
+    background-color:teal;
+    display: flex;
+}
+.one{
+    height:100%;
+    width:50%;
+    border:2px solid red;
+    text-align: center;
+    margin: auto;
+}
+.two{
+    height:100%;
+    width:50%;
+    border:2px solid red;
+}
+.myBannerImg{
+    height:80%;
+    width:90%;
+    text-align: center;
+    margin:4%;
+}
